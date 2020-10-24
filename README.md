@@ -61,3 +61,6 @@ Soal 4 :
   
 ![alt text](https://github.com/ahmadirfaan/Tes-Bootcamp-Dumbways-/blob/master/Soal4-InsertDataWriter.JPG?raw=true)
 
+Soal 5 :
+ Terkait pengerjaan file nomer 5 untuk CRUD, saya hanya bisa membuat website dengan create,read serta belum bisa menampilkan gambar yang ada pada databases. Terkait UI saya menggunkan framework Bootstrap CSS untuk tampilan pada website CRUD
+
